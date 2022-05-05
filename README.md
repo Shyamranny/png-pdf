@@ -1,0 +1,1 @@
+This is a very simple java application to convert multiple png or image files to a single pdf. The images can be placed in one folder and this program will read the images from that folder and create a pdf.
